@@ -1,6 +1,4 @@
-{
-  "name": "nextjs-wandr",
-  "version": "1.0.0",
+0",
   "scripts": {
     "vercel-build": "npm install --legacy-peer-deps && next build"
     "dev": "next dev",
